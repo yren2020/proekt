@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 103" width="104" height="103">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff6e47 } 
+	</style>
+	<g id="Footer">
+		<g id="Social">
+			<g id="social icon 1">
+				<path id="Ellipse 3" class="shp0" d="M52.44 26C67.05 26 78.88 37.64 78.88 52C78.88 66.36 67.05 78 52.44 78C37.84 78 26 66.36 26 52C26 37.64 37.84 26 52.44 26Z" />
+			</g>
+		</g>
+	</g>
+</svg>
